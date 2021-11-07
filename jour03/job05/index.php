@@ -24,6 +24,8 @@ while(isset($str[$x])){
 $x++ ;    
 
 }
+
+
 ?>
 
 <html>
